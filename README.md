@@ -1,7 +1,6 @@
 
 ### Hey 👋🏽, I'm [Arun!]
  <br/>
-
 <a href="www.linkedin.com/in/arun-kumar-cs">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -13,11 +12,11 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<br/>
+<br>
 
 Hi, I'm Arun Kumar, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India.<br/>
 
-
+<br/>
 
 - Web Development - Machine Learning - DevOps <br/>
 
