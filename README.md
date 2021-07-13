@@ -1,7 +1,7 @@
 
 ### Hey 👋🏽, I'm [Arun!]
  </br>
-<a href="www.linkedin.com/in/arun-kumar-cs/">
+<a href="https://www.linkedin.com/in/arun-kumar-cs/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/arunstwt">
