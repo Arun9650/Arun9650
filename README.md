@@ -14,11 +14,10 @@
 </br>
 <br>
 
-Hi, I'm Arun Kumar, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India.<br/>
-
-<br/>
-
-- Web Development - Machine Learning - DevOps <br/>
+Hi, I'm Arun Kumar, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India.</br>
+ 
+<br>
+<span class="dot"></span> -Web Development - Machine Learning - DevOps </br>
 
 **Languages and Tools:**
 
