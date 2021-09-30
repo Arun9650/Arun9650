@@ -14,7 +14,7 @@
 </a>
  
 <a href="mailto:arun9650@gmail.com">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" width="38px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" width="38px" >
 </a>
 </br>
 <br>
@@ -26,7 +26,7 @@ Hi, I'm Arun Kumar, a Web Developer, Machine Learning Enthusiast and Open Source
 
 **Languages and Tools:**
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
+<code><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></code>
+<code><img src="https://img.icons8.com/nolan/64/git.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
