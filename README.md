@@ -20,7 +20,7 @@
 <br>
 ## About Me 🚀
 <br>
-Hi, I'm Arun Kumar, a Web Developer, Machine Learning Enthusiast and Open Source Developer🚀 from India.</br>
+Hi, I'm Arun Kumar, a Web Developer, Machine Learning Enthusiast and Open Source ,Developer🚀 from India.</br>
 <br>
 
 
