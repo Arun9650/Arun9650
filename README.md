@@ -26,7 +26,8 @@ Hi, I'm Arun Kumar, a Web Developer, Machine Learning Enthusiast and Open Source
 
 **Languages and Tools:**
 
-<code><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></code>
-<code><img src="https://img.icons8.com/nolan/64/git.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo--v1.png"/></code>
+<code><img src="https://img.icons8.com/color/80/000000/git.png"/></code>
+<code><img src="https://img.icons8.com/color/75/000000/html-5.png"/></code>
+<code><img src="https://img.icons8.com/color/75/000000/css3.png"/></code>
+<code><img src="https://img.icons8.com/color/75/000000/javascript--v1.png"/></code>
