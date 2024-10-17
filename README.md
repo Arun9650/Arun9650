@@ -1,10 +1,10 @@
 Hi 👋 My name is Arun Kumar
 ===========================
 
-Blockchain Developer
+Fullstack  Developer
 --------------------
 
-I am a blockchain developer looking for awesome projects to contribute and have fun.😊😊
+I am a fullstack developer looking for awesome projects to contribute and have fun.😊😊
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [arun02580@gmail.com](mailto:arun02580@gmail.com)
